@@ -16,10 +16,15 @@ Below are three key visualizations that give an overall idea of the Kickstarter 
   - How the projects are doing?
 
 ### 1. What are the projects?
-<img align="center" src="Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width="500"></div>
-<div style="text-align:center"><img src="Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width="500"></div>
+<p align="center">
+  <img src="Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width="500"></div>
+</p>
+
 Number of Projects Seeking Funds Each Category By Year
-<img src="Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png" width="500">
+<p align="center">
+  <img src="Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png" width="500"></div>
+</p>
+
 
 As we can see from the above:
   - Overall project counts boost in 2014&2015
@@ -28,14 +33,18 @@ As we can see from the above:
   - Technology increase dramatically in 2014&2015
 
 ### 2. Where are the projects from?
-![](Visualization_Images/5.%20Map%20-%20Partial.png)
+<p align="center">
+  <img src="Visualization_Images/5.%20Map%20-%20Partial.png" width="500"></div>
+</p>
 
 The above map shows:
   - Majority fund seekers are from US. Great Britain and Canada follows.
   - Some countries are missing. China, Russia, India, etc. Might due to policy issues.
 
 ### 3. How the projects are doing?
-![](Visualization_Images/6.%20Propotion%20of%20Projects%20by%20Status.png)
+<p align="center">
+  <img src="Visualization_Images/6.%20Propotion%20of%20Projects%20by%20Status.png" width="500"></div>
+</p>
 
 From the pie chart, we see:
   - Suprisingly, most projects failed than successed. :(

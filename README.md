@@ -2,7 +2,9 @@
 ## Summary
 I chose to do this project because Kickstarter is an interesting platform for both fund seekers and backers. It's a nice platform to check out for innovative ideas and projects, and I would like to have better understanding of Kickstarter.
 
-The dataset 'ks-projects-201801' is from Kaggle: https://www.kaggle.com/kemical/kickstarter-projects
+## Data
+Dataset: 'ks-projects-201801' 
+From: Kaggle, https://www.kaggle.com/kemical/kickstarter-projects
 
 I mainly used Pandas, Numpy to do analysis, and Matplotlib, Seaborn and Plotly to create visualizations about the Kickstarter projects in order to gain interesting insights.
 

@@ -16,9 +16,10 @@ Below are three key visualizations that give an overall idea of the Kickstarter 
   - How the projects are doing?
 
 ### 1. What are the projects?
-![](Visualization_Images/3.%20Wordcloud%20-%20percentage.png)
+<img src = "Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width=50)
+<img src = "Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width=100)
 Number of Projects Seeking Funds Each Category By Year
-![](Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png| width=100)
+![](Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png)
 
 As we can see from the above:
   - Overall project counts boost in 2014&2015

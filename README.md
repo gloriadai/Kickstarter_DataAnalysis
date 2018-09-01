@@ -14,7 +14,7 @@ Below are three key visualizations that give an overall idea of the Kickstarter 
   - how the projects are doing
 
 1. What are the most popular mobile food items that are offered by mobile food vendors in San Francisco?
-![](Visualization_Images/1. Overall Category-wise Distribution.png)
+![](Visualization_Images/1.%20Overall%20Category-wise%20Distribution.png)
 
 As we can see from the above word cloud image of mobile food items in San Francisco, the most popular food items offered by the vendors include food items on cold truck, snacks, packaged sandwiches, pitas, hot drinks and breakfast. 
 

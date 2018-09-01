@@ -49,3 +49,5 @@ The above map shows:
 From the pie chart, we see:
   - Suprisingly, most projects failed than successed. :(
 
+## Python Notebook Viewer
+Link to IPython Notebook Viewer:http://nbviewer.jupyter.org/github/gloriadai/Kickstarter_DataAnalysis/blob/master/KickStarter_Analysis.ipynb

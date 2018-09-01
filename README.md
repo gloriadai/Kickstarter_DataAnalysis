@@ -13,7 +13,7 @@ Below are three key visualizations that give an overall idea of the Kickstarter 
   - Where are the projects from? 
   - How the projects are doing?
 
-#### 1. What are the projects?
+### 1. What are the projects?
 ![](Visualization_Images/3.%20Wordcloud%20-%20percentage.png)
 Number of Projects Seeking Funds Each Category By Year
 ![](Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png)
@@ -24,14 +24,14 @@ As we can see from the above:
   - Film & Video has always been a popular category
   - Technology increase dramatically in 2014&2015
 
-#### 2. Where are the projects from?
+### 2. Where are the projects from?
 ![](Visualization_Images/5.%20Map%20-%20Partial.png)
 
 The above map shows:
   - Majority fund seekers are from US. Great Britain and Canada follows.
   - Some countries are missing. China, Russia, India, etc. Might due to policy issues.
 
-#### 3. How the projects are doing?
+### 3. How the projects are doing?
 ![](Visualization_Images/6.%20Propotion%20of%20Projects%20by%20Status.png)
 
 From the pie chart, we see:

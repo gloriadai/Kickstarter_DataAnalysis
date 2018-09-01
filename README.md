@@ -16,6 +16,7 @@ Below are three key visualizations that give an overall idea of the Kickstarter 
   - How the projects are doing?
 
 ### 1. What are the projects?
+<img src="Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width="500"></div>
 <div style="text-align:center"><img src="Visualization_Images/3.%20Wordcloud%20-%20percentage.png" width="500"></div>
 Number of Projects Seeking Funds Each Category By Year
 <img src="Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png" width="500">

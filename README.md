@@ -8,6 +8,8 @@ From: Kaggle, https://www.kaggle.com/kemical/kickstarter-projects
 
 I mainly used Pandas, Numpy to do analysis, and Matplotlib, Seaborn and Plotly to create visualizations about the Kickstarter projects in order to gain interesting insights.
 
+## Python Notebook Viewer
+Link to IPython Notebook Viewer: http://nbviewer.jupyter.org/github/gloriadai/Kickstarter_DataAnalysis/blob/master/KickStarter_Analysis.ipynb
 
 ## Key Visualizations
 Below are three key visualizations that give an overall idea of the Kickstarter projects: 
@@ -48,6 +50,3 @@ The above map shows:
 
 From the pie chart, we see:
   - Suprisingly, most projects failed than successed. :(
-
-## Python Notebook Viewer
-Link to IPython Notebook Viewer:http://nbviewer.jupyter.org/github/gloriadai/Kickstarter_DataAnalysis/blob/master/KickStarter_Analysis.ipynb

@@ -9,26 +9,31 @@ I mainly used Pandas, Numpy to do analysis, and Matplotlib, Seaborn and Plotly t
 
 ## Key Visualizations
 Below are three key visualizations that give an overall idea of the Kickstarter projects: 
-  - what are the projects
-  - where are the projects from 
-  - how the projects are doing
+  - What are the projects?
+  - Where are the projects from? 
+  - How the projects are doing?
 
-1. What are the most popular mobile food items that are offered by mobile food vendors in San Francisco?
-![](Visualization_Images/1.%20Overall%20Category-wise%20Distribution.png)
+1. What are the projects?
+![](Visualization_Images/3.%20Wordcloud%20-%20percentage.png)
+Number of Projects Seeking Funds Each Category By Year
+![](Visualization_Images/2.%20Number%20of%20Projects%20Seeking%20Funds%20Each%20Category%20By%20Year.png)
 
-As we can see from the above word cloud image of mobile food items in San Francisco, the most popular food items offered by the vendors include food items on cold truck, snacks, packaged sandwiches, pitas, hot drinks and breakfast. 
+As we can see from the above:
+  - Overall project counts boost in 2014&2015
+  - Overall project counts decreased in 2016
+  - Film & Video has always been a popular category
+  - Technology increase dramatically in 2014&2015
 
+2. Where are the projects from?
+![](Visualization_Images/5.%20Map%20-%20Partial.png)
 
-2. How many mobile foods are available during certain times and days of the week?
-![](Visualization%20Images/MobileFoodHeatmap.png)
+The above map shows:
+  - Majority fund seekers are from US. Great Britain and Canada follows.
+  - Some countries are missing. China, Russia, India, etc. Might due to policy issues.
 
-The above heatmap shows that much more mobile foods are available during week days than weekends. Also, the most mobile foods are available during lunch and brunch hours (9am-2pm). This shows that most mobile foods target to serve lunches and brunches for working professionals. 
+3. How the projects are doing?
+![](Visualization_Images/6.%20Propotion%20of%20Projects%20by%20Status.png)
 
+From the pie chart, we see:
+  - Suprisingly, most projects failed than successed. :(
 
-3. Where in San Francisco are the mobile foods located?
-![](Visualization%20Images/MobileFoodLocationsbyFacilityType.png)
-
-From the initial view of the mobile food business locationson in San Francisco map for both trucks and push carts, we can see there are only few points on the west side. Most of the points are concentrated on the east and middle side, especially the northeast corner, and these areas are San Francisco's commercial areas with the most companies and business. This further shows that the mobile foods target to serve the working professionals. 
-
-The food truck business locations are the orange dots on the map. Most food trucks are concentrated on the east and middle side, and only few food trucks are operating on the west side. The push carts business locations are the blue dots on the map, most push carts are located along Market Street, which is the main business street in San Francisco.
- 

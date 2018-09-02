@@ -12,7 +12,7 @@ I mainly used Pandas, Numpy to do analysis, and Matplotlib, Seaborn and Plotly t
 Link to IPython Notebook Viewer: http://nbviewer.jupyter.org/github/gloriadai/Kickstarter_DataAnalysis/blob/master/KickStarter_Analysis.ipynb
 
 ## Key Visualizations
-Below are three key visualizations that give an overall idea of the Kickstarter projects: 
+Below are few key visualizations that give an overall idea of the Kickstarter projects: 
   - What are the projects?
   - Where are the projects from? 
   - How the projects are doing?
